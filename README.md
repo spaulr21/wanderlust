@@ -1,4 +1,5 @@
 # wanderlust
+A React Native project
 
 ## API Research:
 ### Financial Insitutions:
