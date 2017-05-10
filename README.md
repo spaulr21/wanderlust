@@ -10,3 +10,12 @@ A React Native project
 1. <a href="https://plaid.com/solutions/money-movement/">Better ACH Authentication</a> - Quick way to facilitate payments
 2. <a href="https://plaid.com/solutions/transaction-data/">Aggregate Transaction Data</a> - High-Quality transaction data
 #### <a href="http://www.ofx.net/index.html">Open Financial Exchange (OFX)</a>
+
+## Next Steps:
+### Davis
+1. Implement user login and authentication
+2. Research storage options for user info
+
+### Unassigned
+1. Map out app flow (with screen layouts)
+2. Choose from Financial API solutions (pricing, ease of integration, security, etc.)
