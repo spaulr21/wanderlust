@@ -19,5 +19,5 @@ A React Native project
 2. Research storage options for user info
 
 ### Unassigned
-1. Map out app flow (with screen layouts)
+1. Map out app flow - Design started on LucidChart, invitation sent to Randol's email
 2. Choose from Financial API solutions (pricing, ease of integration, security, etc.)
