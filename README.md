@@ -10,6 +10,8 @@ A React Native project
 1. <a href="https://plaid.com/solutions/money-movement/">Better ACH Authentication</a> - Quick way to facilitate payments
 2. <a href="https://plaid.com/solutions/transaction-data/">Aggregate Transaction Data</a> - High-Quality transaction data
 #### <a href="http://www.ofx.net/index.html">Open Financial Exchange (OFX)</a>
+### User Management:
+#### <a href="https://www.okta.com/products/developer/">Okta</a>
 
 ## Next Steps:
 ### Davis
